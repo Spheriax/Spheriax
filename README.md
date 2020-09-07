@@ -15,9 +15,9 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow_ML-000000?style=flat&logo=tensorflow)
 ![Cloud Python](https://img.shields.io/badge/-Jupyter/Repl.it/Colab-000000?style=flat&logo=bandlab)
 
-![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=github&logoColor=F05032)
