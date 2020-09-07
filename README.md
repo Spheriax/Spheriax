@@ -5,6 +5,7 @@
 <br>🏆 GPT-3 Fanboy
 <br>💬 Discord: `Kodiak#3253`
 
+### Experience
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=FCC624)
 ![C Sharp](https://img.shields.io/badge/-C%23_Cross_Platform_GUI-000000?style=flat&logo=windows&logoColor=F05032)
