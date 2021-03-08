@@ -13,12 +13,12 @@
 ![Trading AI](https://img.shields.io/badge/-Trading_AI-9cf?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Discord Bots](https://img.shields.io/badge/-Discord_Bots-9cf?style=for-the-badge&logo=discord&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow_ML-9cf?style=for-the-badge&logo=tensorflow&logoColor=white)<br>
-![Serverless](https://img.shields.io/badge/-Serverless-9cf?style=for-the-badge&logo=openfaas&logoColor=white)
 ![GPT 2](https://img.shields.io/badge/-Custom%20GPT%202-9cf?style=for-the-badge&logo=openai&logoColor=white)
+![Serverless](https://img.shields.io/badge/-Serverless-9cf?style=for-the-badge&logo=openfaas&logoColor=white)
 ![Cloud Python](https://img.shields.io/badge/-Jupyter/Repl/Colab-9cf?style=for-the-badge&logo=bandlab&logoColor=white)<br>
-![SQL/Mongo](https://img.shields.io/badge/-SQL/Mongo-9cf?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-9cf?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-9cf?style=for-the-badge&logo=github&logoColor=white)
+![SQL/Mongo](https://img.shields.io/badge/-SQL/Mongo-9cf?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-9cf?style=for-the-badge&logo=linux&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-9cf?style=for-the-badge&logo=pandas&logoColor=white)
 
