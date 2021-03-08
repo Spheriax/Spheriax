@@ -18,8 +18,7 @@
 ![Serverless](https://img.shields.io/badge/-Serverless-9cf?style=for-the-badge&logo=openfaas&logoColor=white)<br>
 ![Flask](https://img.shields.io/badge/-Flask-9cf?style=for-the-badge&logo=flask&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-9cf?style=for-the-badge&logo=linux&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-9cf?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-9cf?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL/Mongo/JSON-9cf?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-9cf?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-9cf?style=for-the-badge&logo=github&logoColor=white)
 
