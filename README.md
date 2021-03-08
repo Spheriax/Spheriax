@@ -1,7 +1,7 @@
 ### Kodiak
 
 🤑 Trading AI Demos: https://kodiak.ovrvu.page/
-<br>📉 AutoMEX BitMEX Terminal Dev | [Preview](https://docs.google.com/document/d/1RZ6zj7Q1PXl2YUEQri5brreHS3DW8OmUDpQjfeoYDlQ) (Soon for Web/Mobile/Desktop)
+<br>📉 AutoMEX BitMEX Terminal Dev | [Preview](https://docs.google.com/document/d/1RZ6zj7Q1PXl2YUEQri5brreHS3DW8OmUDpQjfeoYDlQ)
 <br>🏆 GPT-3 Fanboy
 <br>💬 Discord: `Kodiak#3253`
 
@@ -9,14 +9,12 @@
 
 ![Python](https://img.shields.io/badge/-Python-9cf?style=for-the-badge&logo=python&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/-C%23_Cross_Platform_GUI-9cf?style=for-the-badge&logo=windows&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-9cf?style=for-the-badge&logoColor=white&logo=rust)
-
+![Rust](https://img.shields.io/badge/-Rust-9cf?style=for-the-badge&logoColor=white&logo=rust)<br>
 ![Trading AI](https://img.shields.io/badge/-Trading_AI-9cf?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Discord Bots](https://img.shields.io/badge/-Discord_Bots-9cf?style=for-the-badge&logo=discord&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow_ML-9cf?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Cloud Python](https://img.shields.io/badge/-Jupyter/Repl.it/Colab-9cf?style=for-the-badge&logo=bandlab&logoColor=white)
-
-![Flask](https://img.shields.io/badge/-Flask-9cf?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-9cf?style=for-the-badge&logo=flask&logoColor=white)<br>
 ![Linux](https://img.shields.io/badge/-Linux-9cf?style=for-the-badge&logo=linux&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-9cf?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-9cf?style=for-the-badge&logo=mongodb&logoColor=white)
