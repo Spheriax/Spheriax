@@ -12,11 +12,13 @@
 ![Rust](https://img.shields.io/badge/-Rust-9cf?style=for-the-badge&logoColor=white&logo=rust)<br>
 ![Trading AI](https://img.shields.io/badge/-Trading_AI-9cf?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Discord Bots](https://img.shields.io/badge/-Discord_Bots-9cf?style=for-the-badge&logo=discord&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow_ML-9cf?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow_ML-9cf?style=for-the-badge&logo=tensorflow&logoColor=white)<br>
+![GPT 2](https://img.shields.io/badge/-GPT%202-9cf?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Cloud Python](https://img.shields.io/badge/-Jupyter/Repl.it/Colab-9cf?style=for-the-badge&logo=bandlab&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-9cf?style=for-the-badge&logo=flask&logoColor=white)<br>
+![Flask](https://img.shields.io/badge/-Flask-9cf?style=for-the-badge&logo=flask&logoColor=white)
+![Serverless](https://img.shields.io/badge/-Serverless-9cf?style=for-the-badge&logo=openfaas&logoColor=white)<br>
 ![Linux](https://img.shields.io/badge/-Linux-9cf?style=for-the-badge&logo=linux&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-9cf?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-9cf?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-9cf?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-9cf?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-9cf?style=for-the-badge&logo=github&logoColor=white)
