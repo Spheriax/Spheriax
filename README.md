@@ -18,9 +18,9 @@
 ![Cloud Python](https://img.shields.io/badge/-Jupyter/Repl/Colab-9cf?style=for-the-badge&logo=bandlab&logoColor=white)<br>
 ![SQL/Mongo](https://img.shields.io/badge/-SQL/Mongo-9cf?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-9cf?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-9cf?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-9cf?style=for-the-badge&logo=linux&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-9cf?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-9cf?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- Alternative badges
 ![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=python&logoColor=white)
