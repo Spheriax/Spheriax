@@ -2,9 +2,8 @@
 
 🌊 Auto-Generated NFTs: https://opensea.io/collection/puppers
 <br>🤑 Trading AI Demos: https://kodiak.ovrvu.page/
-<br>📉 AutoMEX BitMEX Terminal Dev | [View](https://docs.google.com/document/d/1RZ6zj7Q1PXl2YUEQri5brreHS3DW8OmUDpQjfeoYDlQ)
-<br>🏆 GPT Fanboy | Clone Bots
-<br>💬 Twitter: @PupperoniNFT
+<br>📉 AutoMEX BitMEX Terminal | [View](https://docs.google.com/document/d/1RZ6zj7Q1PXl2YUEQri5brreHS3DW8OmUDpQjfeoYDlQ)
+<br>🏆 GPT Fanboy
 
 ### Experience
 
