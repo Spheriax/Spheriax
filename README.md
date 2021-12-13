@@ -1,11 +1,18 @@
-### Kodiak
+<!-- ![Header](./header.png) -->
+<h1 align="left">Kodiak</h1>
+<p align="left">Advanced Developer</p>
 
-🌊 Auto-Generated NFTs: https://opensea.io/collection/puppers
-<br>🤑 Trading AI Demos: https://kodiak.ovrvu.page/
-<br>📉 AutoMEX BitMEX Terminal | [View](https://docs.google.com/document/d/1RZ6zj7Q1PXl2YUEQri5brreHS3DW8OmUDpQjfeoYDlQ)
-<br>🏆 GPT Fanboy
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/?username=kodiakcrypto&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+</p>
 
-### Experience
+<p align="left">
+  <a href="https://kodiak.ovrvu.page/">🤑 FinTech Demos</p>
+  <a href="https://opensea.io/collection/puppers">🌊 Generated NFTs</p>
+  <a href="https://docs.google.com/document/d/1RZ6zj7Q1PXl2YUEQri5brreHS3DW8OmUDpQjfeoYDlQ">📉 Asset Trading Terminal</p>
+  <p align="left">🏆 GPT Fanboy</p>
+</p>
+<br/>
 
 ![Python](https://img.shields.io/badge/-Python-9cf?style=for-the-badge&logo=python&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/-C%23_Cross_Platform_GUI-9cf?style=for-the-badge&logo=windows&logoColor=white)
@@ -13,7 +20,7 @@
 ![Trading AI](https://img.shields.io/badge/-Trading_AI-9cf?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Discord Bots](https://img.shields.io/badge/-Discord_Bots-9cf?style=for-the-badge&logo=discord&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow_ML-9cf?style=for-the-badge&logo=tensorflow&logoColor=white)<br>
-![GPT 2](https://img.shields.io/badge/-Custom%20GPT%202-9cf?style=for-the-badge&logo=openai&logoColor=white)
+![GPT](https://img.shields.io/badge/-Custom%20GPT%202-9cf?style=for-the-badge&logo=openai&logoColor=white)
 ![Cloud Python](https://img.shields.io/badge/-Jupyter/Repl/Colab-9cf?style=for-the-badge&logo=bandlab&logoColor=white)
 ![Serverless](https://img.shields.io/badge/-Serverless-9cf?style=for-the-badge&logo=openfaas&logoColor=white)<br>
 ![Flask](https://img.shields.io/badge/-Flask-9cf?style=for-the-badge&logo=flask&logoColor=white)
@@ -21,6 +28,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-9cf?style=for-the-badge&logo=linux&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-9cf?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-9cf?style=for-the-badge&logo=github&logoColor=white)
+
+<!-- ![Footer](./footer.png) -->
 
 <!-- Alternative badges
 ![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=python&logoColor=white)
