@@ -9,7 +9,7 @@
 <p align="left">
   <a href="https://kodiak.ovrvu.page/">🤑 FinTech Demos</p>
   <a href="https://opensea.io/collection/puppers">🌊 Generated NFTs</p>
-  <a href="https://docs.google.com/document/d/1RZ6zj7Q1PXl2YUEQri5brreHS3DW8OmUDpQjfeoYDlQ">📉 Asset Trading Terminal</p>
+  <a href="https://docs.google.com/document/d/1RZ6zj7Q1PXl2YUEQri5brreHS3DW8OmUDpQjfeoYDlQ">📉 Asset Trading Terminal</a>
   <p align="left">🏆 GPT Fanboy</p>
 </p>
 <br/>
