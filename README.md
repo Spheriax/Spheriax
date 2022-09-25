@@ -1,4 +1,3 @@
-<!-- ![Header](./header.png) -->
 <h1 align="left">Kodiak</h1>
 <p align="left">Advanced Developer</p>
 
@@ -7,12 +6,35 @@
 </p>
 
 <p align="left">
-  <a href="https://kodiak.ovrvu.page/">🤑 FinTech Demos</p>
-  <a href="https://opensea.io/collection/puppers">🌊 Generated NFTs</p>
-  <a href="https://docs.google.com/document/d/1RZ6zj7Q1PXl2YUEQri5brreHS3DW8OmUDpQjfeoYDlQ">📉 Asset Trading Terminal</p>
-  <a href="">🏆 AI Fanboy</p>
+  <h3>Bash</h3>
+  - <a href="https://github.com/kodiakcrypto/OpenFaaS-Docker-AutoDeploy">OpenFaaS & Docker AutoDeploy Scripts</a>
+  <br>
+  <h3>Serverless</h3>
+  - <a href="https://github.com/kodiakcrypto/JSON-Schema-Abstractor">Rust JSON Schema Abstractor</a>
+  <br>
+  - <a href="https://github.com/kodiakcrypto/Serverless-FTX-Trades-Per-Min/blob/main/ftx-faas/handler.py">Websocket -> Crypto Trades Per Minute</a>
+  <br>
+  <h3>NextJS/React & Web3</h3>
+  - <a href="https://github.com/kodiakcrypto/Web3-Token-Dashboard-Vanilla-JS">Vanilla Contract Read & Write</a>
+  <br>
+  <h4>NFT Minting Website (Production Tested)</h4>
+  - <a href="https://menjisworld.com/home">[Image Based Site]</a>
+  + <a href="https://github.com/kodiakcrypto/ReactWeb3NFTSite">[Code]</a>
+  <br>
+  - <a href="https://react-web3-nfts-ite.vercel.app/home">[Component Based Site]</a>
+  + <a href="https://github.com/kodiakcrypto/ReactWeb3NFTSite/tree/backup">[Code]</a>
+  <br>
+  - <a href="https://menjisworld.com/">3D `.gltf` Model + Scene Integration</a>
+  <br><br> 
+  
+  <h3>Docs/Adverts/Communication</h3>
+  - Bitcoin Trading Terminal <a href="https://docs.google.com/document/d/1RZ6zj7Q1PXl2YUEQri5brreHS3DW8OmUDpQjfeoYDlQ">[App Preview]</a><br>
+  - TradingView.com Custom Indicators
+  <a href="https://docs.google.com/presentation/d/1nKkTVaYiCD3Hd3t27IFrsrPI0MwpyEZwWC9BNIeq30w">[Info]</a>
+  <a href="https://docs.google.com/presentation/d/1sQgeoYJZGkvs0VH0RiMTL0gQIUoUjEYzT1AQ9gIXdSk">[Setup Guide]</a>
 </p>
 <br/>
+
 
 ![NextJS](https://img.shields.io/badge/-NextJS-9cf?style=for-the-badge&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-9cf?style=for-the-badge&logo=python&logoColor=white)
@@ -24,39 +46,16 @@
 ![Git](https://img.shields.io/badge/-Git-9cf?style=for-the-badge&logo=github&logoColor=white)
 ![Serverless](https://img.shields.io/badge/-Serverless_FaaS-9cf?style=for-the-badge&logo=openfaas&logoColor=white)
 <br>
-![Pandas](https://img.shields.io/badge/-Pandas-9cf?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas/Numpy](https://img.shields.io/badge/-Pandas/Numpy-9cf?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter/Repl/Colab-9cf?style=for-the-badge&logo=bandlab&logoColor=white)
 ![Flask API](https://img.shields.io/badge/-Flask-9cf?style=for-the-badge&logo=flask&logoColor=white)
 <br>
 ![Financial Trading AI](https://img.shields.io/badge/-Financial_Trading_AI-9cf?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![AI Art](https://img.shields.io/badge/-AI%20ART%202-9cf?style=for-the-badge&logo=openai&logoColor=white)
 
-<!-- ![Footer](./footer.png) -->
-
 <!-- Alternative badges
-![Python](https://img.shields.io/badge/-Python-grey?style=flat-square&logo=python&logoColor=white)
-![C Sharp](https://img.shields.io/badge/-C%23_Cross_Platform_GUI-grey?style=flat-square&logo=windows&logoColor=white)
-![Trading AI](https://img.shields.io/badge/-Trading_AI-grey?style=flat-square&logo=bitcoin&logoColor=white)
 ![Discord Bots](https://img.shields.io/badge/-Discord_Bots-grey?style=flat-square&logo=discord&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow_ML-grey?style=flat-square&logo=tensorflow&logoColor=white)
 ![Cloud Python](https://img.shields.io/badge/-Jupyter/Repl.it/Colab-grey?style=flat-square&logo=bandlab&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-grey?style=flat-square&logo=linux&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-grey?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat-square&logo=mongodb&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-grey?style=flat-square&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=github&logoColor=white)
-####
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=FCC624)
-![C Sharp](https://img.shields.io/badge/-C%23_Cross_Platform_GUI-000000?style=flat&logo=windows&logoColor=F05032)
-![Trading AI](https://img.shields.io/badge/-Trading_AI-000000?style=flat&logo=bitcoin)
 ![Discord Bots](https://img.shields.io/badge/-Discord_Bots-000000?style=flat&logo=discord)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow_ML-000000?style=flat&logo=tensorflow)
-![Cloud Python](https://img.shields.io/badge/-Jupyter/Repl.it/Colab-000000?style=flat&logo=bandlab)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat&logo=pandas)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=github&logoColor=F05032)
 -->
