@@ -10,24 +10,26 @@
   <a href="https://kodiak.ovrvu.page/">🤑 FinTech Demos</p>
   <a href="https://opensea.io/collection/puppers">🌊 Generated NFTs</p>
   <a href="https://docs.google.com/document/d/1RZ6zj7Q1PXl2YUEQri5brreHS3DW8OmUDpQjfeoYDlQ">📉 Asset Trading Terminal</a>
-  <p align="left">🏆 GPT Fanboy</p>
+  <p align="left">🏆 AI Fanboy</p>
 </p>
 <br/>
 
+![NextJS](https://img.shields.io/badge/-NextJS-9cf?style=for-the-badge&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-9cf?style=for-the-badge&logo=python&logoColor=white)
-![C Sharp](https://img.shields.io/badge/-C%23_Cross_Platform_GUI-9cf?style=for-the-badge&logo=windows&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-9cf?style=for-the-badge&logoColor=white&logo=rust)<br>
-![Trading AI](https://img.shields.io/badge/-Trading_AI-9cf?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Discord Bots](https://img.shields.io/badge/-Discord_Bots-9cf?style=for-the-badge&logo=discord&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow_ML-9cf?style=for-the-badge&logo=tensorflow&logoColor=white)<br>
-![GPT](https://img.shields.io/badge/-Custom%20GPT%202-9cf?style=for-the-badge&logo=openai&logoColor=white)
-![Cloud Python](https://img.shields.io/badge/-Jupyter/Repl/Colab-9cf?style=for-the-badge&logo=bandlab&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-9cf?style=for-the-badge&logo=openfaas&logoColor=white)<br>
-![Flask](https://img.shields.io/badge/-Flask-9cf?style=for-the-badge&logo=flask&logoColor=white)
-![SQL/Mongo](https://img.shields.io/badge/-SQL/Mongo/JSON-9cf?style=for-the-badge&logo=postgresql&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-9cf?style=for-the-badge&logoColor=white&logo=rust)
+![C Sharp](https://img.shields.io/badge/-C%23_GUI-9cf?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-9cf?style=for-the-badge&logo=linux&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-9cf?style=for-the-badge&logo=pandas&logoColor=white)
+<br>
+![SQL/Mongo](https://img.shields.io/badge/-SQL/Mongo/JSON-9cf?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-9cf?style=for-the-badge&logo=github&logoColor=white)
+![Serverless](https://img.shields.io/badge/-Serverless_FaaS-9cf?style=for-the-badge&logo=openfaas&logoColor=white)
+<br>
+![Pandas](https://img.shields.io/badge/-Pandas-9cf?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter/Repl/Colab-9cf?style=for-the-badge&logo=bandlab&logoColor=white)
+![Flask API](https://img.shields.io/badge/-Flask-9cf?style=for-the-badge&logo=flask&logoColor=white)
+<br>
+![Financial Trading AI](https://img.shields.io/badge/-Financial_Trading_AI-9cf?style=for-the-badge&logo=bitcoin&logoColor=white)
+![AI Art](https://img.shields.io/badge/-AI%20ART%202-9cf?style=for-the-badge&logo=openai&logoColor=white)
 
 <!-- ![Footer](./footer.png) -->
 
