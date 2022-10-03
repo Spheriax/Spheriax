@@ -51,7 +51,7 @@
 ![Flask API](https://img.shields.io/badge/-Flask-9cf?style=for-the-badge&logo=flask&logoColor=white)
 <br>
 ![Financial Trading AI](https://img.shields.io/badge/-Financial_Trading_AI-9cf?style=for-the-badge&logo=bitcoin&logoColor=white)
-![AI Art](https://img.shields.io/badge/-AI%20ART%202-9cf?style=for-the-badge&logo=openai&logoColor=white)
+![AI Art](https://img.shields.io/badge/-AI%20ART-9cf?style=for-the-badge&logo=openai&logoColor=white)
 
 <!-- Alternative badges
 ![Discord Bots](https://img.shields.io/badge/-Discord_Bots-grey?style=flat-square&logo=discord&logoColor=white)
